@@ -1,5 +1,4 @@
 # aws-s3-crud
-aws-s3-crud
 
 
 UPLOAD - http://localhost:8080/api/s3file/upload  (POST)
